@@ -1,4 +1,4 @@
-const API = 'http://localhost:3333';
+const API = 'https://stripe-backend-ttsqblbuzq-uc.a.run.app';
 
 /**
  * A helper function to fetch data from your API.
